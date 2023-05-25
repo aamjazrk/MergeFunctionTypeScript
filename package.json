@@ -1,0 +1,31 @@
+{
+  "name": "mergefunctiontypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "build": "tsc --project ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamjazrk/MergeFunctionTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamjazrk/MergeFunctionTypeScript/issues"
+  },
+  "homepage": "https://github.com/aamjazrk/MergeFunctionTypeScript#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.22",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
